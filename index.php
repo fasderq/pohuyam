@@ -46,11 +46,11 @@
 		<div class="responsive"><i class="fa fa-bars"></i></div>
 		<nav>
 			<ul class="menu-list">
-				<li class="active"><a href="index.php">Home</a></li>
-				<li><a href="services.html">Services</a></li>
-				<li><a href="blog.html">Blog</a></li>
-				<li><a href="contact.html">Contact</a></li>
-				<li><a href="elements.html">Elements</a></li>
+				<li class="active"><a href="index.php">Главная</a></li>
+<!--				<li><a href="services.html">Services</a></li>-->
+<!--				<li><a href="blog.html">Blog</a></li>-->
+<!--				<li><a href="contact.html">Contact</a></li>-->
+<!--				<li><a href="elements.html">Elements</a></li>-->
 			</ul>
 		</nav>
 	</header>
@@ -62,7 +62,7 @@
 		<div class="hero-content">
 			<div class="hero-center">
 				<img src="img/big-logo.png" alt="">
-				<p>Get your freebie template now!</p>
+				<p>Нам действительно похуй</p>
 			</div>
 		</div>
 		<!-- slider -->
@@ -88,7 +88,7 @@
 								<i class="flaticon-023-flask"></i>
 							</div>
 							<h2>Нам похуям</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo est, feugiat nec elementum id, suscipit id nulla..</p>
+							<p>Нам похуй на ваше мнение!</p>
 						</div>
 					</div>
 					<!-- single card -->
@@ -97,8 +97,8 @@
 							<div class="icon">
 								<i class="flaticon-011-compass"></i>
 							</div>
-							<h2>Вы - биомусор</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo est, feugiat nec elementum id, suscipit id nulla..</p>
+							<h2>Почему нам похуй?</h2>
+							<p>Только альфа-поведение, всех нахуй!</p>
 						</div>
 					</div>
 					<!-- single card -->
@@ -108,7 +108,7 @@
 								<i class="flaticon-037-idea"></i>
 							</div>
 							<h2>Да и ваще похуй</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo est, feugiat nec elementum id, suscipit id nulla..</p>
+							<p>Все заебало, да и ебись оно конем!</p>
 						</div>
 					</div>
 				</div>
@@ -121,7 +121,7 @@
 		<div class="about-contant">
 			<div class="container">
 				<div class="section-title">
-					<h2>Get in <span>the Lab</span> and discover the world</h2>
+					<h2>Нам <span>похуй</span> на весь мир</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-6">
@@ -139,7 +139,7 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
 							<img src="img/video.jpg" alt="">
-							<a href="https://www.youtube.com/watch?v=JgHfx2v9zOU" class="video-popup">
+							<a href="https://www.youtube.com/watch?v=v7KGGCT9qLg" class="video-popup">
 								<i class="fa fa-play"></i>
 							</a>
 						</div>
