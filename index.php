@@ -489,5 +489,18 @@
 	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/circle-progress.min.js"></script>
 	<script src="js/main.js"></script>
+
+    <script type="text/javascript">
+        window._pushkin = window._pushkin || [];
+        window._pushkin.push(['configure', {
+            projectToken: '00e70605-6d4e-4ad1-a842-a04dccff62dc',
+        }]);
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = !0;
+        s.src = 'https://api.pushk.in/widget.js?t=' + (new Date()).getTime();
+        var a = document.getElementsByTagName("script")[0];
+        a.parentNode.insertBefore(s, a);
+    </script>
 </body>
 </html>
