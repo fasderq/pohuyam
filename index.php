@@ -493,7 +493,7 @@
     <script type="text/javascript">
         window._pushkin = window._pushkin || [];
         window._pushkin.push(['configure', {
-            projectToken: '00e70605-6d4e-4ad1-a842-a04dccff62dc',
+            projectToken: 'c2f31b7e-7b63-4755-bf20-4230da5cd836',
         }]);
         var s = document.createElement("script");
         s.type = "text/javascript";
