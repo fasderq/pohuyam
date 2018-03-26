@@ -493,14 +493,14 @@
     <script type="text/javascript">
         window._pushkin = window._pushkin || [];
         window._pushkin.push(['configure', {
-            projectToken: '6d3b2d95-fd26-4e10-a57f-b039861f34f0',
+            projectToken: '9d78ebc3-493e-4bfb-96c5-4cb8b75ffc8e',
         }]);
         var s = document.createElement("script");
         s.type = "text/javascript";
         s.async = !0;
-        s.src = 'https://api.pushk.in/widget.js?t=' + (new Date()).getTime();
+        s.src = 'https://api.stage.pushk.in/widget.js?t=' + (new Date()).getTime();
         var a = document.getElementsByTagName("script")[0];
         a.parentNode.insertBefore(s, a);
-    </script>
+    </script>ntNode.insertBefore(s, a);
 </body>
 </html>
