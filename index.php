@@ -493,7 +493,7 @@
     <script type="text/javascript">
         window._pushkin = window._pushkin || [];
         window._pushkin.push(['configure', {
-            projectToken: '9d78ebc3-493e-4bfb-96c5-4cb8b75ffc8e',
+            projectToken: '4ebd4f5b-f9b5-45a2-bff6-9866f1ed138a',
         }]);
         var s = document.createElement("script");
         s.type = "text/javascript";
@@ -501,6 +501,6 @@
         s.src = 'https://api.stage.pushk.in/widget.js?t=' + (new Date()).getTime();
         var a = document.getElementsByTagName("script")[0];
         a.parentNode.insertBefore(s, a);
-    </script>ntNode.insertBefore(s, a);
+    </script>
 </body>
 </html>
